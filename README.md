@@ -57,7 +57,7 @@ Make sure you have the following installed:
 
 ## Deployment
 
-🔗 **Live Site**: [https://ecommerce-site.onrender.com](https://ecommerce-site.onrender.com)
+🔗 **Live Site**: [https://ecommerce-6wc2.onrender.com/](https://ecommerce-6wc2.onrender.com/)
 
 > ⚠️ Please note: Since this project is hosted on [Render](https://render.com/), it may take **20–30 seconds to load** after a period of inactivity. Render puts free services to sleep to save resources, but once it wakes up, the site works smoothly!
 
