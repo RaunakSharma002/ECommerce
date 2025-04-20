@@ -54,18 +54,12 @@ Make sure you have the following installed:
     http://localhost:3001
     ```
 
-## Deployment
 
 ## Deployment
 
-This project is live and deployed on [Render](https://ecommerce-6wc2.onrender.com/).
+🔗 **Live Site**: [https://ecommerce-site.onrender.com](https://ecommerce-site.onrender.com)
 
-Click the link above to check out the live website.
-
-
-This project can be deployed to platforms like **Render**, **Heroku**, or **Vercel**. You can refer to their documentation for detailed deployment guides.
-
-For free deployment, this project is deployed on **Render**. Follow the guide above to deploy it for free.
+> ⚠️ Please note: Since this project is hosted on [Render](https://render.com/), it may take **20–30 seconds to load** after a period of inactivity. Render puts free services to sleep to save resources, but once it wakes up, the site works smoothly!
 
 ## Contributing
 
