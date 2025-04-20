@@ -1,0 +1,46 @@
+# Node modules (dependencies)
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Cache & temp
+.cache/
+tmp/
+temp/
+
+# Build output
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Debug
+*.swp
+
+# Optional npm debug files
+debug.log*
+
+# System files
+ehthumbs.db
+Icon?
